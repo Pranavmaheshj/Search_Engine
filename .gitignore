@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+.venv-1/
+
+# API Keys
+.env
+
+# Temporary Data and Caches
+data/temp_audio/
+data/temp_video_processing/
+data/uploads/
+__pycache__/
+.cache/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.pyc

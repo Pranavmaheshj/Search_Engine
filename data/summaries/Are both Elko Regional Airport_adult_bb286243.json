@@ -1,0 +1,8 @@
+{
+  "query": "Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?",
+  "age_group": "adult",
+  "summary": "**Executive Summary**\n\nWe investigated the locations of Elko Regional Airport and Gerald R. Ford International Airport to determine if both airports are located in Michigan.\n\n**Key Findings:**\n\n1. **Elko Regional Airport**: We found that Elko Regional Airport (EKO) is actually located in Elko, Nevada, USA, not Michigan. \n2. **Gerald R. Ford International Airport**: After further research, we determined that Gerald R. Ford International Airport (GRR) is indeed located in Grand Rapids, Michigan, USA.\n\n**Conclusion**\n\nIn conclusion, while Gerald R. Ford International Airport is located in Michigan, Elko Regional Airport is actually located in Elko, Nevada, USA.",
+  "metadata": {},
+  "timestamp": "2025-09-27T18:38:31.304898",
+  "model": "llama-3.1-8b-instant"
+}

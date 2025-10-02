@@ -1,0 +1,8 @@
+{
+  "query": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+  "age_group": "adult",
+  "summary": "Executive Summary:\n\nThe Androscoggin Bank Colisée, the home arena of the Lewiston Maineiacs, can seat a total of 4,200 people.",
+  "metadata": {},
+  "timestamp": "2025-09-27T18:33:26.165730",
+  "model": "llama-3.1-8b-instant"
+}
