@@ -1,0 +1,8 @@
+{
+  "query": "Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?",
+  "age_group": "adult",
+  "summary": "Executive Summary:\n\nThe Apple Remote was originally designed to interact with the Front Row media center program on Macintosh computers. However, aside from the Apple TV, which has been replaced by the Siri Remote, the device that can be controlled by the Apple Remote, is the iPod.\n\nWhen an iPod is placed in a dock featuring an IR sensor, it can be controlled using the Apple Remote for music and media control. The remote allows users to play, pause, and navigate through menus on the iPod, but it cannot be used to control the iPod's menus directly. This functionality provides users with a convenient way to control their music and media playback using a single device.",
+  "metadata": {},
+  "timestamp": "2025-09-27T18:35:28.650395",
+  "model": "llama-3.1-8b-instant"
+}

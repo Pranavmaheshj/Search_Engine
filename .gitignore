@@ -1,0 +1,31 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Database files
+data/chroma_db_text/
+data/faiss_index/
+
+# Audio and video files
+data/audio/
+data/audio_output/
+data/temp_audio/
+data/temp_video_processing/
+
+# Large data files
+data/uploads/
+data/*.zip
+data/*.tar
+data/*.gz
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp

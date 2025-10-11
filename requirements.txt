@@ -1,0 +1,65 @@
+# Core ML & RAG
+faiss-cpu
+sentence-transformers
+torch
+numpy
+scikit-learn
+chromadb
+opencv-python
+
+# API Clients
+google-generativeai
+google-api-python-client
+serpapi
+groq
+anthropic
+openai
+
+# Web & Server
+fastapi
+uvicorn
+python-multipart
+aiohttp
+beautifulsoup4
+ddgs
+
+# Feature-specific Libraries
+PyMuPDF
+youtube-search-python
+yt-dlp
+deep-translator
+gTTS
+Pillow
+
+# Utilities
+python-dotenv
+pandas
+evaluate
+rouge_score
+nltk
+absl-py
+anthropic
+huggingface_hub
+python-docx
+langchain
+langchain-openai
+gunicorn
+pytesseract
+
+openai-whisper
+ffmpeg-python
+
+accelerate
+safetensors
+# Feature-specific Libraries (New Video Pipeline)
+pytube
+moviepy
+pydub
+SpeechRecognition
+
+sqlalchemy
+passlib[bcrypt]
+python-jose
+# The official OpenAI CLIP library
+
+gunicorn  
